@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+target '网络的一些demo' do
+pod 'SDWebImage'
+pod 'SSZipArchive'
+pod 'AFNetworking'
+end
